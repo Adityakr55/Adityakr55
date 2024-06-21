@@ -29,4 +29,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityakr55&show_icons=true&locale=en" alt="adityakr55" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityakr55&" alt="adityakr55" /></p>
-![image](https://github.com/Adityakr55/Adityakr55/assets/87254396/5f0cd772-755d-4eb1-b1d7-58922c1744b7)
+//![image](https://github.com/Adityakr55/Adityakr55/assets/87254396/5f0cd772-755d-4eb1-b1d7-58922c1744b7)
